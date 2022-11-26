@@ -8,3 +8,6 @@ Below are the rules defined till now
 - use hash '#' to put a sentence in green
 
 - use three backticks ``` <enclosed data> ```, to some code like formatting for data, inside this block other format like '#', '>>>' won't work.
+
+See below the language in action.
+![Alt text](prem_note.png?raw=true "Prem Note")
